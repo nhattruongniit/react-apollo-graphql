@@ -1,6 +1,6 @@
 # React Apollo Graphql
 
-## Perform GraphQL queries using Apollo's useQuery hook
+## Manage State in React Apps with Apollo Client and GraphQL
 
 - chakra-ui
 - apollo
